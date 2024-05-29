@@ -3,7 +3,7 @@
 Official PyTorch implementation of [**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control**](https://arxiv.org/pdf/2405.17401).
 
 
-**Code will be released soon**  
+**[Code will be released soon...]**  
 
 <!-- [![Star on GitHub](https://img.shields.io/github/stars/LituRout/RB-Modulation.svg?style=social)](https://github.com/LituRout/RB-Modulation/stargazers) -->
 
@@ -28,9 +28,9 @@ composition with reference content images while maintaining sample diversity and
 }
 ```
 
-## Star History
+<!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LituRout/RB-Modulation&type=Date)](https://star-history.com/#LituRout/RB-Modulation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LituRout/RB-Modulation&type=Date)](https://star-history.com/#LituRout/RB-Modulation&Date) -->
 
 ## Licenses
 
